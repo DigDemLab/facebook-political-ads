@@ -6,7 +6,7 @@
   "version": "1.8.4",
   "default_locale": "en",
   "permissions": [
-    "https://projects.propublica.org/facebook-ads/*",
+    "http://130.60.24.171:8080/facebook-ads/*",
     "unlimitedStorage"
   ],
   "background": {
